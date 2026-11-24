@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.brandxchangeke.co.ke/sitemap.xml
